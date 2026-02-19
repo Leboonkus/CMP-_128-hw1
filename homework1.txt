@@ -1,0 +1,13 @@
+<!DocType html>
+    <head>
+     <title>New York stuff</title>
+        <meta="UTF-8"> 
+        <meta name="Anaiya"> 
+        </head>
+
+    <body>
+        <H1>New York City</H1>
+        <hr>
+        <p>words i guess</p>
+    </body>
+</html>
